@@ -27,7 +27,7 @@ You can download FinTracker from the Google Play Store:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/nafishahmeddev/fintracker.git
+git clone https://github.com/rocky-g7/Fintech-payment-and-expenses-tracker-app.git
 ```
 
 2. Change to the project directory:
@@ -58,7 +58,7 @@ flutter run
 - Set monthly budgets for each category by clicking on the category and entering the desired amount.
 
 ## Roadmap
-Check out our detailed [roadmap](https://github.com/nafishahmeddev/fintracker/blob/master/roadmap.md) for planned features and updates!
+Check out our detailed [roadmap](https://github.com/rocky-g7/Fintech-payment-and-expenses-tracker-app.git) for planned features and updates!
 
 ## Contributing
 
