@@ -76,4 +76,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or inquiries, please email us at [hello@nafish.me](mailto:hello@nafish.me).
+For any questions or inquiries, please email us at [email](mailto: rajmax7019@gmail.com).
